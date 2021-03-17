@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Neo한 C언어 블로그"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "박채원"
-description              : "Neo C language Technology (NCT)"
+subtitle                 : "환영합니다!" # site tagline that appears below site title in masthead
+name                     : "박채원!"
+description              : "Neo한 C언어 Technology (NCT)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
