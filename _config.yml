@@ -19,9 +19,9 @@ locale                   : "ko-KR"
 title                    : "Neo한 C언어 블로그"
 title_separator          : "-"
 subtitle                 : "환영합니다!" # site tagline that appears below site title in masthead
-name                     : "박채원!"
-description              : "Neo한 C언어 Technology (NCT)"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : " 박채원! "
+description              : " Neo한 C언어 Technology (NCT) "
+url                      : "https://artpcw5883.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -52,8 +52,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "박채원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Neo한 C언어를 해봅시다"
+  location         : "분당 지박령"
+  email            : "artpcw5883@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
