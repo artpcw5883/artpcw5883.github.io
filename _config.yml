@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "ℕ𝕖𝕠 ℂ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪"
+title                    : "𝓝𝓮𝓸 𝓒 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝔂"
 title_separator          : "-"
-subtitle                 : "𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓵𝓸𝓰" # site tagline that appears below site title in masthead
+subtitle                 : "𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 ℬ𝓁ℴℊ" # site tagline that appears below site title in masthead
 name                     : " 박채원! "
 description              : " Neo한 C언어 Technology (NCT) "
 url                      : "https://artpcw5883.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
