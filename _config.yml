@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "박채원"
-  avatar           : /assets/images/Isabelle.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/img.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "일개 학생 ~ ᕕ( ᐛ )ᕗ"
   location         : "(･´з`･)ゞ 분당 지박령"
   email            : "artpcw5883@gmail.com"
