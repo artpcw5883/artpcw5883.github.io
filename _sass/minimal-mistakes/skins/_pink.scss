@@ -1,0 +1,23 @@
+ /* ==========================================================================
+   Pink
+   ========================================================================== */
+
+/* Colors */
+$background-color: #ffedf0 !default;
+$text-color: #4a353b !default;
+$muted-text-color: #6e4259 !default;
+$primary-color: #fcb1dd !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #b2a6ed !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
