@@ -22,4 +22,3 @@
     <iframe src="{{ video_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
   </div>
 {% endunless %}
-{% include video id="4TWR90KJl84" provider="youtube" %}
