@@ -8,5 +8,4 @@ layout: single
 - 앞으로 공부해나가는 내용을 기반으로 꾸준히 업데이트 될 예정입니다!
 
 ![key][link]
-
 [link]:https://data.whicdn.com/images/298815243/original.jpg
