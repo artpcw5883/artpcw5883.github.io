@@ -4,7 +4,7 @@ title: "[C언어] 5. 조건문"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-categories: C
+categories: C언어
 ---
 Lesson 형성평가
 
