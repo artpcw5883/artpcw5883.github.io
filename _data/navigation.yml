@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "카테고리"
+  - title: "✧*.카테고리.*✧"
     url: /categories/
-  - title: "연도"
+  - title: "✧*.연도.*✧"
     url: /posts/
-  - title: "소개"
+  - title: "✧*.소개.*✧"
     url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
